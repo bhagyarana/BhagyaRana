@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://linkedin.com/in/bhagyarana" target="blank">
-<img align="center" src="/images/icons/Social/linked-in.svg" alt="bhagyarana" height="30" width="40" />
+<img align="center" src="/images/icons/Social/linked-in-alt.svg" alt="bhagyarana" height="30" width="40" />
 </a>
 
 <a href="https://fb.com/bhagyarana007" target="blank">
@@ -131,4 +131,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyarana&show_icons=true&locale=en&layout=compact" alt="bhagyarana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" /></p>
