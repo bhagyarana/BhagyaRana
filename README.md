@@ -133,7 +133,7 @@
   <div class="column" style="box-sizing: border-box;float: left; width: 33.33%;padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyarana&show_icons=true&locale=en&layout=compact" alt="bhagyarana" />
   </div>
-  <div class="column" style="box-sizing: border-box;float: left; width: 33.33%;padding: 5px;">
+  <div class="column" style="box-sizing: border-box;float: right; width: 33.33%;padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" />
   </div>
 </div>
