@@ -129,10 +129,32 @@
 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyarana&show_icons=true&locale=en&layout=compact" alt="bhagyarana" />
-</p>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" />
-</p>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+
+<div class="row">
+  <div class="column">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyarana&show_icons=true&locale=en&layout=compact" alt="bhagyarana" />
+  </div>
+  <div class="column">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" />
+  </div>
+</div>
+
