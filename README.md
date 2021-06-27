@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagya Vinod Rana</h1>
-<h3 align="center">I am Full Stack Web Developer, Competitve Programmer and Enthusiastic CSE Undergraduate at N.I.T.,Surat and Am Passionate About Coding and Would Love to Build Projects and Contribute to Open Source</h3>
+<h3 align="center">I am Full Stack Web Developer, Competitive Programmer and Enthusiastic CSE Undergraduate at N.I.T.,Surat and Am Passionate About Coding and Would Love to Build Projects and Contribute to Open Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyarana&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyarana" /> </p>
 
