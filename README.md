@@ -55,48 +55,60 @@
 
 <p align="left"> 
 
-<a href="https://angular.io" target="_blank"> 
+<!-- <a href="https://angular.io" target="_blank"> 
 <img src="/images/icons/FrontendDevelopment/angularjs.svg" alt="angularjs" width="40" height="40"/> 
+</a>  -->
+  
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/>
 </a> 
 
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> 
+</a>
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/>
+</a>
+  
 <a href="https://getbootstrap.com" target="_blank">
 <img src="/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
+</a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> 
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/>
 </a> 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
 <img src="/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> 
+<a href="https://www.python.org" target="_blank"> 
+<img src="/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> 
+</a>
+  
+<a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> 
+</a> 
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="/images/icons/Other/git.svg" alt="git" width="40" height="40"/> 
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="/images/icons/Framework/django.svg" alt="django" width="40" height="40"/> 
 </a> 
 
-<a href="https://firebase.google.com/" target="_blank"> 
+<!-- <a href="https://firebase.google.com/" target="_blank"> 
 <img src="/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> 
 </a> 
 
 <a href="https://cloud.google.com" target="_blank"> 
 <img src="/images/icons/Devops/gcp.svg" alt="gcp" width="40" height="40"/> 
-</a>
+</a> -->
 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="/images/icons/Other/git.svg" alt="git" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/>
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/>
+<a href="https://nodejs.org" target="_blank"> 
+<img src="/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank"> 
@@ -107,21 +119,9 @@
 <img src="/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> 
 </a>
 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net" target="_blank"> 
+<!-- <a href="https://www.php.net" target="_blank"> 
 <img src="/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> 
-</a>
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> 
-</a>
-
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/>
-</a> 
+</a> -->
 
 <a href="https://www.sqlite.org/" target="_blank"> 
 <img src="/images/icons/Database/sqlite.svg" alt="sqlite" width="40" height="40"/> 
