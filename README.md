@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyarana&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyarana" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, NodeJS & Django**
+- 🌱 I’m currently learning **React, NodeJS & Django**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/BhagyaRana/)
 
