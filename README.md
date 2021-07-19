@@ -12,29 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
-<a href="https://dev.to/bhagyarana" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhagyarana" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/bhagya_rana" target="blank">
-<img align="center" src="/images/icons/Social/twitter.svg" alt="bhagya_rana" height="30" width="40" />
-</a>
-
+  
 <a href="https://linkedin.com/in/bhagyarana" target="blank">
 <img align="center" src="/images/icons/Social/linked-in-alt.svg" alt="bhagyarana" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/bhagyarana007" target="blank">
-<img align="center" src="/images/icons/Social/facebook.svg" alt="bhagyarana007" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/bhagyarana4" target="blank">
-<img align="center" src="/images/icons/Social/instagram.svg" alt="bhagyarana4" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/c/bhagya rana" target="blank">
-<img align="center" src="/images/icons/Social/youtube.svg" alt="bhagya rana" height="30" width="40" />
 </a>
 
 <a href="https://www.codechef.com/users/bhagya_rana" target="blank">
@@ -47,6 +27,27 @@
 
 <a href="https://www.hackerearth.com/@bhagyarana2001" target="blank">
 <img align="center" src="/images/icons/Social/hackerearth.svg" alt="@bhagyarana2001" height="30" width="40" />
+  
+<a href="https://dev.to/bhagyarana" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhagyarana" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/bhagya_rana" target="blank">
+<img align="center" src="/images/icons/Social/twitter.svg" alt="bhagya_rana" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/bhagyarana007" target="blank">
+<img align="center" src="/images/icons/Social/facebook.svg" alt="bhagyarana007" height="30" width="40" />
+</a> 
+
+<a href="https://instagram.com/bhagyarana4" target="blank">
+<img align="center" src="/images/icons/Social/instagram.svg" alt="bhagyarana4" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/c/bhagya rana" target="blank">
+<img align="center" src="/images/icons/Social/youtube.svg" alt="bhagya rana" height="30" width="40" />
+</a>
+
 </a>
 
 </p>
