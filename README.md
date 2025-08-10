@@ -1,141 +1,60 @@
-<h1 align="center">Hi 👋, I'm Bhagya Vinod Rana</h1>
-<h3 align="center">I am Full Stack Web Developer, Competitive Programmer and Enthusiastic CSE Undergraduate at N.I.T.,Surat and Am Passionate About Coding and Would Love to Build Projects and Contribute to Open Source</h3>
+<h1 align="center">👋 Hey there, I’m <span style="color:#4CAF50;">Bhagya Rana</span></h1>
+<h3 align="center">🚀 Software Developer | Frontend Specialist | Full-Stack Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyarana&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyarana" /> </p>
-
-- 🌱 I’m currently learning **Next.JS**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/BhagyaRana/)
-
-- ⚡ Fun fact **I Love to Play BasketBall**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  
-<a href="https://linkedin.com/in/bhagyarana" target="blank">
-<img align="center" src="/images/icons/Social/linked-in-alt.svg" alt="bhagyarana" height="30" width="40" />
-</a>
-
-<a href="https://www.codechef.com/users/bhagya_rana" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhagya_rana" height="30" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/bhagya_rana" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="bhagya_rana" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerearth.com/@bhagyarana2001" target="blank">
-<img align="center" src="/images/icons/Social/hackerearth.svg" alt="@bhagyarana2001" height="30" width="40" />
-  
-<a href="https://dev.to/bhagyarana" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhagyarana" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/bhagya_rana" target="blank">
-<img align="center" src="/images/icons/Social/twitter.svg" alt="bhagya_rana" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/bhagyarana007" target="blank">
-<img align="center" src="/images/icons/Social/facebook.svg" alt="bhagyarana007" height="30" width="40" />
-</a> 
-
-<a href="https://instagram.com/bhagyarana4" target="blank">
-<img align="center" src="/images/icons/Social/instagram.svg" alt="bhagyarana4" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/c/bhagya rana" target="blank">
-<img align="center" src="/images/icons/Social/youtube.svg" alt="bhagya rana" height="30" width="40" />
-</a>
-
-</a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4CAF50&width=435&lines=Crafting+Beautiful+UIs;Building+Scalable+Apps;Always+Learning+%26+Innovating" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
+<h2>💡 About Me</h2>
+<ul>
+  <li>💻 <b>2+ years</b> of professional experience as a Software Developer at <b>Wells Fargo</b> in the Core Policy Technology Team.</li>
+  <li>🎯 Specializing in <b>AngularJS</b> for the Policy Governance Platform (PGP) with 250+ contributions (features, fixes & optimizations).</li>
+  <li>🌱 Currently transitioning into <b>Full-Stack Development</b> by mastering backend services & database integrations.</li>
+  <li>☁️ <b>Certified</b> in Microsoft Azure AZ-800.</li>
+  <li>💡 Passionate about solving complex problems, designing clean UI/UX, and delivering business impact.</li>
+</ul>
 
-<!-- <a href="https://angular.io" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/angularjs.svg" alt="angularjs" width="40" height="40"/> 
-</a>  -->
-  
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/>
-</a> 
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> 
-</a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/>
-</a>
-  
-<a href="https://getbootstrap.com" target="_blank">
-<img src="/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/>
-</a> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> 
-</a>
-  
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="/images/icons/Other/git.svg" alt="git" width="40" height="40"/> 
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="/images/icons/Framework/django.svg" alt="django" width="40" height="40"/> 
-</a> 
-
-<!-- <a href="https://firebase.google.com/" target="_blank"> 
-<img src="/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> 
-</a> 
-
-<a href="https://cloud.google.com" target="_blank"> 
-<img src="/images/icons/Devops/gcp.svg" alt="gcp" width="40" height="40"/> 
-</a> -->
-
-<a href="https://nodejs.org" target="_blank"> 
-<img src="/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/>
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-<!-- <a href="https://www.php.net" target="_blank"> 
-<img src="/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> 
-</a> -->
-
-<a href="https://www.sqlite.org/" target="_blank"> 
-<img src="/images/icons/Database/sqlite.svg" alt="sqlite" width="40" height="40"/> 
-</a>
-
+<h2>⚒️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-AngularJS-orange?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL-lightblue?logo=postgresql&logoColor=white" />
 </p>
 
-<div class="row" style="box-sizing: border-box;clear: both;display: table;">
-  <div class="column" style="box-sizing: border-box;float: left; width: 33.33%;padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyarana&show_icons=true&locale=en&layout=compact" alt="bhagyarana" />
-  </div>
-  <div class="column" style="box-sizing: border-box;float: right; width: 33.33%;padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyarana&show_icons=true&locale=en" alt="bhagyarana" />
-  </div>
-</div>
+---
 
+<h2>🏆 Career Highlights</h2>
+<ul>
+  <li>🚀 Led major UI revamps in the Policy Governance Platform improving load times by <b>30%</b> and accessibility compliance.</li>
+  <li>🛠 Integrated backend APIs with AngularJS, enhancing data sync and reducing API errors by <b>40%</b>.</li>
+  <li>📈 Actively mentored new developers on frontend best practices and Git workflows.</li>
+</ul>
+
+---
+
+<h2>📌 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/BhagyaRana/SUDOKU-SOLVER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagyaRana&repo=SUDOKU-SOLVER&theme=radical" />
+  </a>
+</p>
+
+---
+
+<h2>🤝 Let’s Connect</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/bhagya-rana"><img src="https://img.shields.io/badge/LinkedIn-Bhagya_Rana-blue?logo=linkedin" /></a>
+  <a href="mailto:bhagyarana2001@gmail.com"><img src="https://img.shields.io/badge/Email-bhagyarana2001gmail.com-red?logo=gmail" /></a>
+  <a href="https://x.com/bhagya_rana"><img src="https://img.shields.io/badge/Twitter-@bhagya__rana-black?logo=twitter" /></a>
+</p>
+
+---
+<p align="center"><i>✨ Code, Create, Contribute — that’s my mantra!</i></p>
