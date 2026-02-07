@@ -10,7 +10,7 @@
 <h2>💡 About Me</h2>
 <ul>
   <li>💻 <b>2+ years</b> of professional experience as a Software Developer at <b>Wells Fargo</b> in the Core Policy Technology Team.</li>
-  <li>🎯 Specializing in <b>AngularJS</b> for the Policy Governance Platform (PGP) with 250+ contributions (features, fixes & optimizations).</li>
+  <li>🎯 Specializing in <b>AngularJS</b> for the Policy Governance Platform (PGP) with 1000+ contributions (features, fixes & optimizations).</li>
   <li>🌱 Currently transitioning into <b>Full-Stack Development</b> by mastering backend services & database integrations.</li>
   <li>☁️ <b>Certified</b> in Microsoft Azure AZ-800.</li>
   <li>💡 Passionate about solving complex problems, designing clean UI/UX, and delivering business impact.</li>
