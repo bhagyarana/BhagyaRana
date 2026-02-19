@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I’m <span style="color:#4CAF50;">Bhagya Rana</span></h1>
-<h3 align="center">🚀 Software Developer | Frontend Specialist | Full-Stack Explorer</h3>
+<h3 align="center">🚀 Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4CAF50&width=435&lines=Crafting+Beautiful+UIs;Building+Scalable+Apps;Always+Learning+%26+Innovating" alt="Typing Animation" />
@@ -9,7 +9,7 @@
 
 <h2>💡 About Me</h2>
 <ul>
-  <li>💻 <b>2+ years</b> of professional experience as a Software Developer at <b>Wells Fargo</b> in the Core Policy Technology Team.</li>
+  <li>💻 <b>2.5+ years</b> of professional experience as a Software Developer at <b>Wells Fargo</b> in the Core Policy Technology Team.</li>
   <li>🎯 Specializing in <b>AngularJS</b> for the Policy Governance Platform (PGP) with 1000+ contributions (features, fixes & optimizations).</li>
   <li>🌱 Currently transitioning into <b>Full-Stack Development</b> by mastering backend services & database integrations.</li>
   <li>☁️ <b>Certified</b> in Microsoft Azure AZ-800.</li>
@@ -40,21 +40,20 @@
 
 ---
 
-<h2>📌 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/BhagyaRana/SUDOKU-SOLVER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagyaRana&repo=SUDOKU-SOLVER&theme=radical" />
-  </a>
+<h2>📌 Featured Projects</h2> 
+<p align="center"> 
+<a href="https://www.fumoney.in"><strong>FUMONEY</strong></a>
+<br/>
+An AI-powered financial planning platform for Indian salaried professionals (ages 22–44, ₹6L–₹66L income) that turns financial chaos into clarity with retirement planning, goal-based tracking, real-time “what-if” simulations, and a personalized Financial Fitness Score.
 </p>
 
 ---
 
 <h2>🤝 Let’s Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/bhagya-rana"><img src="https://img.shields.io/badge/LinkedIn-Bhagya_Rana-blue?logo=linkedin" /></a>
-  <a href="mailto:bhagyarana2001@gmail.com"><img src="https://img.shields.io/badge/Email-bhagyarana2001gmail.com-red?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/bhagyarana"><img src="https://img.shields.io/badge/LinkedIn-Bhagya_Rana-blue?logo=linkedin" /></a>
   <a href="https://x.com/bhagya_rana"><img src="https://img.shields.io/badge/Twitter-@bhagya__rana-black?logo=twitter" /></a>
 </p>
 
 ---
-<p align="center"><i>✨ Code, Create, Contribute — that’s my mantra!</i></p>
+<p align="center"><i>✨ Plan, Build, Iterate — that’s my mantra!</i></p>
