@@ -9,8 +9,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              B H A G Y A   R A N A                          ║
-║       Software Engineer · System Designer · Builder         ║
+║               B H A G Y A   R A N A                          ║
+║        Software Engineer · System Designer · Builder         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
